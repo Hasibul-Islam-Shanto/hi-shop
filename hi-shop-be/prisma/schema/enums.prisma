@@ -1,0 +1,29 @@
+enum Role {
+  CUSTOMER
+  ADMIN
+}
+
+enum OrderStatus {
+  PENDING
+  CONFIRMED
+  PROCESSING
+  SHIPPED
+  DELIVERED
+  CANCELLED
+  REFUNDED
+}
+
+enum PaymentStatus {
+  PENDING
+  SUCCEEDED
+  FAILED
+  REFUNDED
+}
+
+enum InventoryMovementType {
+  ORDER_PLACED
+  ORDER_CANCELLED
+  ADMIN_ADJUSTMENT
+  RESTOCK
+  CORRECTION
+}

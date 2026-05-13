@@ -1,0 +1,7 @@
+.next
+coverage
+node_modules
+tsconfig.tsbuildinfo
+.husky/_
+AGENTS.md
+CLAUDE.md

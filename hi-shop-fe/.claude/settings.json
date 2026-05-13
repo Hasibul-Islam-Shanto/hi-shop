@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"/Users/hi-shanto/Documents/learning-shanto/hi-shop/hi-shop-fe/app/\\(main\\)/profile/[id]/orders\")",
+      "Bash(mkdir -p \"/Users/hi-shanto/Documents/learning-shanto/hi-shop/hi-shop-fe/app/\\(main\\)/orders/[id]/_components\")",
+      "Bash(npm uninstall *)",
+      "Bash(node -e \"const p = require\\('/Users/hi-shanto/Documents/learning-shanto/hi-shop/hi-shop-fe/node_modules/iron-session/package.json'\\); console.log\\(p.version\\)\")",
+      "Bash(rm -f app/api/auth/\\\\[...nextauth\\\\]/route.ts)",
+      "Bash(rmdir app/api/auth/\\\\[...nextauth\\\\])"
+    ],
+    "additionalDirectories": [
+      "/Users/hi-shanto/Documents/learning-shanto/hi-shop/hi-shop-fe/app/(main)/profile/[id]",
+      "/Users/hi-shanto/Documents/learning-shanto/hi-shop/hi-shop-fe/app/(main)/orders/[id]",
+      "/Users/hi-shanto/Documents/.claude/projects/-Users-hi-shanto-Documents-learning-shanto-hi-shop-hi-shop-fe/memory"
+    ]
+  }
+}
