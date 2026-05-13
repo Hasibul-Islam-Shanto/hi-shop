@@ -744,16 +744,67 @@ CMD ["node", "dist/src/main"]
 
 ## Screenshots
 
-```md
-![Home Page](./docs/screenshots/home.png)
-![Product Listing](./docs/screenshots/products.png)
-![Product Detail](./docs/screenshots/product-detail.png)
-![Cart](./docs/screenshots/cart.png)
-![Checkout](./docs/screenshots/checkout.png)
-![Admin Dashboard](./docs/screenshots/dashboard.png)
-![Admin Inventory](./docs/screenshots/inventory.png)
-![Admin Orders](./docs/screenshots/orders.png)
-```
+### Storefront (`hi-shop-fe`)
+
+**Home Page** — Hero section with featured product and call-to-action
+
+![Home Page](./screenshots/Screenshot%202026-05-13%20at%207.23.56%20PM.png)
+
+---
+
+**All Categories** — Category discovery grid with browse and filtering options
+
+![All Categories](./screenshots/Screenshot%202026-05-13%20at%207.24.20%20PM.png)
+
+---
+
+**Shopping Cart** — Persistent cart with item management, discount code input, and order summary
+
+![Shopping Cart](./screenshots/Screenshot%202026-05-13%20at%207.24.28%20PM.png)
+
+---
+
+**User Profile Dashboard** — Personalised welcome banner, order stats, and active order snapshot
+
+![User Profile Dashboard](./screenshots/Screenshot%202026-05-13%20at%207.24.43%20PM.png)
+
+---
+
+**Order History** — Tabbed order history view (Active / Delivered / Cancelled) with order cards
+
+![Order History](./screenshots/Screenshot%202026-05-13%20at%207.25.26%20PM.png)
+
+---
+
+### Admin Dashboard (`hi-shop-dashboard`)
+
+**Add New Product** — Product creation form with basic info, description, category selection, and image upload
+
+![Add New Product](./screenshots/Screenshot%202026-05-13%20at%208.09.36%20PM.png)
+
+---
+
+**Categories Management** — Full category list with slug, description, parent, and inline edit/delete actions
+
+![Categories Management](./screenshots/Screenshot%202026-05-13%20at%208.09.48%20PM.png)
+
+---
+
+**Order Detail Modal** — Per-order detail with customer info, status badge, shipping courier, and tracking number
+
+![Order Detail Modal](./screenshots/Screenshot%202026-05-13%20at%208.10.01%20PM.png)
+
+---
+
+**Users Management** — User list with role assignment (Customer ↔ Admin) and suspend/reactivate controls
+
+![Users Management](./screenshots/Screenshot%202026-05-13%20at%208.10.13%20PM.png)
+
+---
+
+**Analytics** — KPI cards (revenue, orders, customers, products), orders-by-status bar chart, and status breakdown
+
+![Analytics](./screenshots/Screenshot%202026-05-13%20at%208.10.25%20PM.png)
 
 ---
 
